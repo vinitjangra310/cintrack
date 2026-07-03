@@ -1,0 +1,11 @@
+{
+  "name": "aurastudy",
+  "version": "1.0.0",
+  "description": "Premium Study Planner & Focus Hub SPA",
+  "main": "app.js",
+  "scripts": {
+    "dev": "npx -y serve ."
+  },
+  "author": "AuraStudy",
+  "license": "ISC"
+}
